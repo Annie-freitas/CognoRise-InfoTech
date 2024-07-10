@@ -1,4 +1,4 @@
-This repository contains the work I completed during my data analysis internship at CognoRise InfoTech. 
+This repository contains the work i completed during my data analysis internship at CognoRise InfoTech. 
 
 The projects included analysis of three distinct datasets:
 
